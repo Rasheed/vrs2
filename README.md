@@ -23,5 +23,5 @@ Installation
 [angular.js]:www.angularjs.com
 [node.js]:http://nodejs.org
 [jQuery]:http://jquery.com
-[jQuery]:http://www.socket.io
+[socket.io]:http://www.socket.io
 
